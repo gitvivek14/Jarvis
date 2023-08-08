@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\Dharam pal\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
